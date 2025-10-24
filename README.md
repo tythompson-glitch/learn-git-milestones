@@ -275,13 +275,13 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 🫡
-2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/tythompson-glitch/learn-git-milestones/blob/main/README.md)
+2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/tythompson-glitch/learn-git-milestones/commit/4659ab4be9331847355e2a95eab7cb747327940f)
 3 | 3-3 | Link to markdown tables docs | [How to use markdown tables](https://www.codecademy.com/resources/docs/markdown/tables)
 4 | 3-4 | What does `log` do? | git log shows the history of commits in a repo. It shows information such as author, date, and commit message.
 5 | 4-1 | 2nd Favorite emoji | 🤫
-6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop]()
-7 | 5-1 | Full path to your working directory |
-8 | 5-2 | Link to `commit #3 from CLI` |
+6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/tythompson-glitch/learn-git-milestones/commit/16948333fd3e3d379aa423df483dc0303e1d4f59)
+7 | 5-1 | Full path to your working directory | /Users/tylerthompson/Documents/learn-git-milestones
+8 | 5-2 | Link to `commit #3 from CLI` | 
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
 
