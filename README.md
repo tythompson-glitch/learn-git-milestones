@@ -278,8 +278,8 @@ Row | Step | Description | Completed
 2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/tythompson-glitch/learn-git-milestones/blob/main/README.md)
 3 | 3-3 | Link to markdown tables docs | [How to use markdown tables](https://www.codecademy.com/resources/docs/markdown/tables)
 4 | 3-4 | What does `log` do? | git log shows the history of commits in a repo. It shows information such as author, date, and commit message.
-5 | 4-1 | 2nd Favorite emoji | 
-6 | 4-2 | Link to `commit #2 from Github Desktop` |
+5 | 4-1 | 2nd Favorite emoji | 🤫
+6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop]()
 7 | 5-1 | Full path to your working directory |
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
