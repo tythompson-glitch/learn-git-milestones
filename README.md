@@ -282,8 +282,8 @@ Row | Step | Description | Completed
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/tythompson-glitch/learn-git-milestones/commit/16948333fd3e3d379aa423df483dc0303e1d4f59)
 7 | 5-1 | Full path to your working directory | /Users/tylerthompson/Documents/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/tythompson-glitch/learn-git-milestones/commit/ee6d1e331d5650abca52b6ad06f6a2beca213124)
-9 | 6-1 | Link to `first-website` github.com repo page | 
-10 | 7-1 | Link to `first-website` github.io "project site" |
+9 | 6-1 | Link to `first-website` github.com repo page | [first-website](https://github.com/tythompson-glitch/first-website.git)
+10 | 7-1 | Link to `first-website` github.io "project site" | [first-website](https://github.com/tythompson-glitch/first-website/settings/pages)
 
 
 
